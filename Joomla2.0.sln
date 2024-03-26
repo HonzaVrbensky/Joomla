@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joomla2.0", "Joomla2.0\Joomla2.0.csproj", "{697B878A-06E4-4E31-99FF-49DD4DAC77EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697B878A-06E4-4E31-99FF-49DD4DAC77EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697B878A-06E4-4E31-99FF-49DD4DAC77EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697B878A-06E4-4E31-99FF-49DD4DAC77EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697B878A-06E4-4E31-99FF-49DD4DAC77EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F551F3E4-9F44-4762-90AD-7E2EEDDCB084}
+	EndGlobalSection
+EndGlobal
